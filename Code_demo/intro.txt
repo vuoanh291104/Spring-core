@@ -1,1 +1,0 @@
-The group's common demo code will be in the code_demo folder
